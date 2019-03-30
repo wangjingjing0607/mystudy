@@ -2,18 +2,34 @@
 学生英语批判性阅读能力后测试卷
 阅读理解 (共15小题；每小题2分，满分30分)
 请认真阅读下列短文，从短文后各题所给的A、B、C、D四个选项中，选出最佳选项。
-A
-What a Little Love Means to a Little One
-    For too many, the damage begins early in life. Four out of 10 infants (婴儿) born in the United States do not form a strong bond (关系) with either parent, and they will pay for that the rest of their lives.
-    New research from Princeton University confirms what other researchers have already found: The number of babies born into families that are too poorly equipped to give them a fair chance of having a successful life is extremely big.
-    That finding is supported by many other research projects, including a study from the University of Rochester showing that nearly one-third of U.S. parents don't know what to expect from their newborns, or how to help them grow and learn and get along with others. Babies, as others have pointed out, don't come with an owner's manual.
-The basic problem, according to the Princeton study, is 40 percent of infants in the U.S. live in fear or distrust of their parents, and that will turn into aggressiveness (侵犯), defiance (挑衅) and hyperactivity (多动) as they grow into adults.
-    Of that number, 25 percent don't bond with their parents because the parents aren't responding to their needs. And a tragic 15 percent find their parents so troubling that they will avoid them whenever possible.
-    That will not necessarily result in a lifetime of violence, but it will make living a successful life much more difficult.
-    “They can overcome it,” sociologist Sophie Moullin of Princeton, lead author of that study, said in a telephone interview. “It's not a make or break situation, but they might find it harder to control their behavior.”
-    Moullin, along with coauthors from Columbia University and the University of Bristol in England, analyzed more than 100 research projects, to reach their conclusions.
-    Many factors contribute to the problem, including poverty, ignorance (无知), and stress among parents who are so busy with their own problems that a new child is sometimes more than they can handle.
+                                                A
+                            What a Little Love Means to a Little One
+    For too many, the damage begins early in life. Four out of 10 infants (婴儿) born in the United 
+States do not form a strong bond (关系) with either parent, and they will pay for that the rest of 
+their lives.
+    New research from Princeton University confirms what other researchers have already found: The 
+number of babies born into families that are too poorly equipped to give them a fair chance of having 
+a successful life is extremely big.
+    That finding is supported by many other research projects, including a study from the University 
+of Rochester showing that nearly one-third of U.S. parents don't know what to expect from their newborns, 
+or how to help them grow and learn and get along with others. Babies, as others have pointed out, 
+don't come with an owner's manual.The basic problem, according to the Princeton study, is 40 percent 
+of infants in the U.S. live in fear or distrust of their parents, and that will turn into aggressiveness (侵犯), 
+defiance (挑衅) and hyperactivity (多动) as they grow into adults.
+    Of that number, 25 percent don't bond with their parents because the parents aren't responding 
+to their needs. And a tragic 15 percent find their parents so troubling that they will avoid them 
+whenever possible.
+    That will not necessarily result in a lifetime of violence, but it will make living a successful 
+life much more difficult.
+    “They can overcome it,” sociologist Sophie Moullin of Princeton, lead author of that study, said 
+in a telephone interview. “It's not a make or break situation, but they might find it harder to control 
+their behavior.”
+    Moullin, along with coauthors from Columbia University and the University of Bristol in England, 
+analyzed more than 100 research projects, to reach their conclusions.
+    Many factors contribute to the problem, including poverty, ignorance (无知), and stress among parents 
+who are so busy with their own problems that a new child is sometimes more than they can handle.
     Yet strong bonds, the researchers say, are amazingly simple to achieve.
+
 1. According to the writing style of the passage, it may be a(n) _______.
 A. news report      B. argument      C. essay        D. debate
 2. What is the meaning of the underlined word “manual”?
@@ -27,12 +43,26 @@ B. Examples of the consequences of lacking strong bonds.
 C. Simple ways of achieving strong bonds with an infant.
 D. Reasons for failing in building up strong bonds with a child.
                                      
-B
-    Stopping teens from smoking is a big challenge many communities face today. Many communities can only watch without being able to act while local businesses continue to sell tobacco products to children, even under the risk of punishment by law.
-    Recent studies show that a large percentage of teens today are getting their cigarettes from stores, mostly gas stations or convenience stores. As teens continue to be able to buy their own cigarettes, more and more communities begin to punish those who sell cigarettes to the teens.
-    One community has experienced success in their attempts to stop the sale of tobacco products to children. Woodridge, Illinois, started a program seven years ago which forbade and strictly punished the sale of tobacco products to children. The entire program includes local licensing of vendors (小贩), repeated undercover inspections to see if the sale to children has stopped, and education programs in schools. Woodridge has become a model community as other community are moving to stop teen tobacco use.
-    A recent national study showed that 36.5% of females, and 40.8% of males buy their cigarettes from stores, whether it is a gas station or a supermarket. Hopefully, as more and more sellers see the trouble they face if caught selling to children, they will stop selling.
-    True, tightening down on stores that sell tobacco to children isn’t going to completely stop the problem of teen tobacco use. Teens continue to get them from other sources. But it definitely does prevent their efforts. With more education in schools, and perhaps stronger punishments for teens caught with tobacco, more and more teens will see the problems with the tobacco usage, and will stop the habit.
+                                                B
+    Stopping teens from smoking is a big challenge many communities face today. Many communities can 
+only watch without being able to act while local businesses continue to sell tobacco products to 
+children, even under the risk of punishment by law.
+    Recent studies show that a large percentage of teens today are getting their cigarettes from 
+stores, mostly gas stations or convenience stores. As teens continue to be able to buy their own 
+cigarettes, more and more communities begin to punish those who sell cigarettes to the teens.
+    One community has experienced success in their attempts to stop the sale of tobacco products to 
+children. Woodridge, Illinois, started a program seven years ago which forbade and strictly punished 
+the sale of tobacco products to children. The entire program includes local licensing of vendors (小贩), 
+repeated undercover inspections to see if the sale to children has stopped, and education programs in 
+schools. Woodridge has become a model community as other community are moving to stop teen tobacco use.
+    A recent national study showed that 36.5% of females, and 40.8% of males buy their cigarettes from 
+stores, whether it is a gas station or a supermarket. Hopefully, as more and more sellers see the 
+trouble they face if caught selling to children, they will stop selling.
+    True, tightening down on stores that sell tobacco to children isn’t going to completely stop the 
+problem of teen tobacco use. Teens continue to get them from other sources. But it definitely does 
+prevent their efforts. With more education in schools, and perhaps stronger punishments for teens caught 
+with tobacco, more and more teens will see the problems with the tobacco usage, and will stop the habit.
+
 4. To stop teens from smoking, more and more communities are _______.
 A. punishing teens caught with tobacco more severely
 B. punishing those who sell cigarettes to teens more severely
@@ -50,11 +80,29 @@ C. Punishment alone cannot solve the problem of teen tobacco use
 D. More males than females have the habit of smoking in America
 7. What attitude does the writer have towards stopping teen tobacco abuse?
 A. Negative      B. Uncaring       C. Uncertain        D. Optimistic 
-C
-    Living abroad to study can certainly be an interesting experience but is that alone a good enough reason for spending years far away from home? To make the experience truly worthwhile, there has to be a goal behind the decision to study abroad. This may be a wish to perfect language skills in a foreign language environment, or a clever move in your career development. You must also consider the costs, not just of living and studying abroad, but of applying. Most universities now charge application fees for international students.
-    If after considering these points you are sure that you want to apply to study abroad, your next step is to choose the right program of studies. Research your choices and select carefully. You must do your homework well. Most universities have information online but you can also email and ask them to send you more details. You can find a lot of information on school ranking from education websites. But read carefully. Different universities emphasize different strengths. Don’t just think about the university’s reputation (名声); look for the most suitable for your goals.
-    Next, you must deal with a large pile of paperwork. This involves filling in application form, preparing your school records, and getting reference letters. Reading the instructions and requirements of the universities carefully is of great importance. Sadly, many fine applicants get kicked out in the first round, simply because they don’t follow the application procedure properly.
-    Money is another important consideration. Some scholarships are provided by governments, others by schools and colleges. This information, again, can be found on the Internet. If you find a scholarship that is suitable for you, follow the application procedure carefully; the earlier you apply, the better your chance of getting it.
+
+                                                C
+    Living abroad to study can certainly be an interesting experience but is that alone a good enough 
+reason for spending years far away from home? To make the experience truly worthwhile, there has to be 
+a goal behind the decision to study abroad. This may be a wish to perfect language skills in a foreign 
+language environment, or a clever move in your career development. You must also consider the costs, not 
+just of living and studying abroad, but of applying. Most universities now charge application fees for 
+international students.
+    If after considering these points you are sure that you want to apply to study abroad, your next 
+step is to choose the right program of studies. Research your choices and select carefully. You must 
+do your homework well. Most universities have information online but you can also email and ask them 
+to send you more details. You can find a lot of information on school ranking from education websites. 
+But read carefully. Different universities emphasize different strengths. Don’t just think about the 
+university’s reputation (名声); look for the most suitable for your goals.
+    Next, you must deal with a large pile of paperwork. This involves filling in application form, 
+preparing your school records, and getting reference letters. Reading the instructions and requirements 
+of the universities carefully is of great importance. Sadly, many fine applicants get kicked out in the 
+first round, simply because they don’t follow the application procedure properly.
+    Money is another important consideration. Some scholarships are provided by governments, others by 
+schools and colleges. This information, again, can be found on the Internet. If you find a scholarship 
+that is suitable for you, follow the application procedure carefully; the earlier you apply, the better 
+your chance of getting it.
+
 8. According to the article, studying abroad is truly worthwhile because _______.
 A. it is an interesting experience                                               B. it is fun to travel around the world
 C. it is an opportunity to develop your career    D. all your friends are doing so
@@ -69,10 +117,31 @@ D. Write a reference letter, do paperwork, and study.
 11. The underlined phrase “get kicked out in the first round” in Paragraph 3 means _______.
 A. fail to get to the next round                                                  B. lose money in the first round
 C. get accepted in the next round                                              D. get kicked by a professor
-D
-    There are two types of people in the world. Although they have equal degree of health and wealth and other comforts of life, one becomes happy, the other becomes unhappy. This results from the different ways in which they consider things, persons, events and the resulting effects upon their minds.
-    People who are to be happy fix their attention on the convenience of things: the pleasant parts of conversation, the well prepared dishes, the goodness of the wine, the fine weather. They enjoy all the cheerful things. Those who are to be unhappy think and speak only of the opposite things. Therefore, they are continually dissatisfied. By their words, they sour the pleasure of society, offend (hurt) many people, and make themselves unwelcome everywhere. If this state of mind is founded in nature, such unhappy person would be the more to be shown sympathy. The intention (意图) of criticizing (批评) and being disliked is perhaps taken up by imitation (模仿). It grows into a habit, unknown to its owners. The habit may be strong, but it may be cured when those who have it realize its bad effects on their interests and tastes. I hope this little warning may be of service to them, and help them change this habit.
-    Although in fact it is chiefly an act of the imagination, it has serious results in life since it brings on deep sorrow and bad luck. Those people hurt many others. Nobody loves them, and no one treats them with more than the most common politeness and respect. This often puts them in a bad mood and draws them into arguments. If they want to get some advantages in social position or money, nobody wishes them success. Nor will anyone start a step of speaking a word to favor their hopes. If they bring on themselves public objections (反对), no one will defend or excuse them, and many will join to criticize their wrong doings. These should change this bad habit and be pleased with what is pleasing, without worrying needlessly about themselves and others. If they do not, it will be good for others to avoid any contact with them. Otherwise, it can be disagreeable and sometimes very inconvenient, especially when one becomes mixed up in their quarrels.
+
+                                                D
+    There are two types of people in the world. Although they have equal degree of health and wealth
+and other comforts of life, one becomes happy, the other becomes unhappy. This results from the different 
+ways in which they consider things, persons, events and the resulting effects upon their minds.
+    People who are to be happy fix their attention on the convenience of things: the pleasant parts of 
+conversation, the well prepared dishes, the goodness of the wine, the fine weather. They enjoy all the 
+cheerful things. Those who are to be unhappy think and speak only of the opposite things. Therefore, 
+they are continually dissatisfied. By their words, they sour the pleasure of society, offend (hurt) 
+many people, and make themselves unwelcome everywhere. If this state of mind is founded in nature, 
+such unhappy person would be the more to be shown sympathy. The intention (意图) of criticizing (批评) 
+and being disliked is perhaps taken up by imitation (模仿). It grows into a habit, unknown to its owners.
+The habit may be strong, but it may be cured when those who have it realize its bad effects on their 
+interests and tastes. I hope this little warning may be of service to them, and help them change this habit.
+    Although in fact it is chiefly an act of the imagination, it has serious results in life since 
+it brings on deep sorrow and bad luck. Those people hurt many others. Nobody loves them, and no one 
+treats them with more than the most common politeness and respect. This often puts them in a bad mood 
+and draws them into arguments. If they want to get some advantages in social position or money, nobody 
+wishes them success. Nor will anyone start a step of speaking a word to favor their hopes. If they bring 
+on themselves public objections (反对), no one will defend or excuse them, and many will join to criticize 
+their wrong doings. These should change this bad habit and be pleased with what is pleasing, without 
+worrying needlessly about themselves and others. If they do not, it will be good for others to avoid 
+any contact with them. Otherwise, it can be disagreeable and sometimes very inconvenient, especially 
+when one becomes mixed up in their quarrels.
+
 12. People who are unhappy _______.
 A. always see the unpleasant side of certain things
 B. are usually born with the criticizing qualities.
